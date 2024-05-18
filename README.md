@@ -1,4 +1,4 @@
-This React component, named Scene, renders an interactive scene with a cube that changes color and position when clicked. It utilizes the @react-spring/three package for 3D animations in React.
+### This React component, named Scene, renders an interactive scene with a cube that changes color and position when clicked. It utilizes the @react-spring/three package for 3D animations in React.
 
 # Props of React Spring / useSpring:
 
